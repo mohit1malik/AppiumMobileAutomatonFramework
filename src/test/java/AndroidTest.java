@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 
-public class test {
+public class AndroidTest {
 
     public AndroidDriver driver;
 
